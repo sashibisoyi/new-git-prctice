@@ -1,2 +1,4 @@
 this is git bash
 i am updating this file to move from one branch to another
+for conflict
+this is conflict on newdev12
